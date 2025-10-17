@@ -146,7 +146,7 @@ pip install -U wizsearch
 
 ### 5. wizagent 🧙
 
-[![CI](https://github.com/mirasurf/wizagent/actions/workflows/ci.yml/badge.svg)](https://github.com/mirasurf/wizagent/actions/workflows/ci.yml)
+[![CI](https://github.com/caesar0301/wizagent/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/wizagent/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/wizagent.svg)](https://pypi.org/project/wizagent/)
 
 **Powerful web automation and research framework combining multi-engine search, deep research, browser automation, and structured data extraction.**
