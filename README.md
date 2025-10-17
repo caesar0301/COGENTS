@@ -36,7 +36,6 @@ COGENTS
 
 ### 1. cogents-core 🧠 **(BASE)**
 
-[![CI](https://github.com/caesar0301/cogents-core/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/cogents-core/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/cogents-core.svg)](https://pypi.org/project/cogents-core/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/caesar0301/cogents-core)
 
@@ -66,7 +65,6 @@ pip install -U cogents-core
 
 ### 2. cogents-smith 🔨
 
-[![CI](https://github.com/caesar0301/cogents-smith/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/cogents-smith/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/cogents-smith.svg)](https://pypi.org/project/cogents-smith/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/caesar0301/cogents-smith)
 
@@ -101,7 +99,6 @@ pip install -U cogents-smith
 
 ### 3. cogents-browser-use 🌐
 
-[![CI](https://github.com/caesar0301/cogents-browser-use/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/cogents-browser-use/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/cogents-browser-use.svg)](https://pypi.org/project/cogents-browser-use/)
 
 **AI-powered browser automation adapted from browser-use on the COGENTS stack.**
@@ -123,7 +120,6 @@ pip install -U cogents-browser-use
 
 ### 4. wizsearch 🔍
 
-[![CI](https://github.com/caesar0301/wizsearch/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/wizsearch/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/wizsearch.svg)](https://pypi.org/project/wizsearch/)
 
 **Unified Python library for searching across multiple search engines with a consistent interface.**
@@ -146,7 +142,6 @@ pip install -U wizsearch
 
 ### 5. wizagent 🧙
 
-[![CI](https://github.com/caesar0301/wizagent/actions/workflows/ci.yml/badge.svg)](https://github.com/caesar0301/wizagent/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/wizagent.svg)](https://pypi.org/project/wizagent/)
 
 **Powerful web automation and research framework combining multi-engine search, deep research, browser automation, and structured data extraction.**
