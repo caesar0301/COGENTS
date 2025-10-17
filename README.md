@@ -211,7 +211,7 @@ All COGENTS subprojects are released under the MIT License. See the LICENSE file
 - **cogents-core**: https://github.com/caesar0301/cogents-core
 - **cogents-smith**: https://github.com/caesar0301/cogents-smith
 - **cogents-browser-use**: https://github.com/caesar0301/cogents-browser-use
-- **wizagent**: https://github.com/mirasurf/wizagent
+- **wizagent**: https://github.com/caesar0301/wizagent
 - **wizsearch**: https://github.com/caesar0301/wizsearch
 
 ### PyPI Packages
