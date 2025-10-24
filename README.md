@@ -34,7 +34,7 @@ COGENTS
 
 ## 📦 Subprojects
 
-### 1. [cogents-core](https://pypi.org/project/cogents-core/) 🧠 **(BASE)**
+### 1. [cogents-core](https://github.com/caesar0301/cogents-core/) 🧠 **(BASE)**
 
 [![PyPI version](https://img.shields.io/pypi/v/cogents-core.svg)](https://pypi.org/project/cogents-core/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/caesar0301/cogents-core)
@@ -63,7 +63,7 @@ pip install -U cogents-core
 
 ---
 
-### 2. [cogents-smith](https://pypi.org/project/cogents-smith/) 🔨
+### 2. [cogents-smith](https://github.com/caesar0301/cogents-smith/) 🔨
 
 [![PyPI version](https://img.shields.io/pypi/v/cogents-smith.svg)](https://pypi.org/project/cogents-smith/)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/caesar0301/cogents-smith)
@@ -97,7 +97,7 @@ pip install -U cogents-smith
 
 ---
 
-### 3. [cogents-browser-use](https://pypi.org/project/cogents-browser-use/) 🌐
+### 3. [cogents-browser-use](https://github.com/caesar0301/cogents-browser-use/) 🌐
 
 [![PyPI version](https://img.shields.io/pypi/v/cogents-browser-use.svg)](https://pypi.org/project/cogents-browser-use/)
 
@@ -118,7 +118,7 @@ pip install -U cogents-browser-use
 
 ---
 
-### 4. [wizsearch](https://pypi.org/project/wizsearch/) 🔍
+### 4. [wizsearch](https://github.com/caesar0301/wizsearch/) 🔍
 
 [![PyPI version](https://img.shields.io/pypi/v/wizsearch.svg)](https://pypi.org/project/wizsearch/)
 
@@ -140,7 +140,7 @@ pip install -U wizsearch
 
 ---
 
-### 5. [wizagent](https://pypi.org/project/wizagent/) 🧙
+### 5. [wizagent](https://github.com/caesar0301/wizagent/) 🧙
 
 [![PyPI version](https://img.shields.io/pypi/v/wizagent.svg)](https://pypi.org/project/wizagent/)
 
